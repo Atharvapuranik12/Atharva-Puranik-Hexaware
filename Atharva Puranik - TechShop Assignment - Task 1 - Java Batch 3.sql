@@ -1,5 +1,5 @@
 -- Task 1 -- 
--- create database Techshop
+create database Techshop;
 use Techshop; 
 -- customer table 
 CREATE TABLE Customers (
